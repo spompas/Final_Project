@@ -1,0 +1,21 @@
+body {
+    
+    background-color: black;
+    color: white;
+font-size: 22px;
+}
+
+a{
+    color: white
+}
+
+img  {margin: 30px;
+    width: 50%;
+    margin-left: 200px;
+    
+}
+p {margin: 10px;
+    font-size: 20px;
+    margin-left: 15px;
+    
+}
